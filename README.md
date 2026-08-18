@@ -1,6 +1,6 @@
 # Trabalho de Compiladores I - Parte 1
 
-# Compiladores I — Trabalho Prático 1: Análise Léxica para Micro C
+# Trabalho Prático 1: Análise Léxica para Micro C
 
 Repositório do Trabalho Prático 1 da disciplina **Compiladores I (FACOM)**: implementação de um **analisador léxico (scanner)** para a linguagem **Micro C**, utilizando a ferramenta **Flex**.
 
